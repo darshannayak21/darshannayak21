@@ -132,18 +132,18 @@ REST APIs • Socket.io • Authentication Systems
 
 # AI / ML Expertise
 
-| Domain | Level | Technologies |
+| Domain | Focus Areas | Technologies & Concepts |
 |----------|----------|----------|
-| LLM Engineering | Advanced | Gemini, Prompt Engineering, RAG |
-| Agent Memory Systems | Advanced | GraphMind |
-| Machine Learning | Advanced | Scikit-Learn, XGBoost |
-| Deep Learning | Advanced | CNNs, Attention Models, LSTMs |
-| Computer Vision | Advanced | YOLOv8, OpenCV |
-| NLP | Experienced | Embeddings, Semantic Search |
-| Geospatial Intelligence | Experienced | NASA DEM, Satellite Analytics |
-| Healthcare AI | Experienced | STELLA, ReMotion |
-| Sports Analytics | Experienced | ApexNet F1 |
-
+| Large Language Models | Retrieval, reasoning, agent workflows | Gemini, Prompt Engineering, Function Calling, RAG, Context Management |
+| Machine Learning | Predictive modeling & feature engineering | Scikit-Learn, XGBoost, Random Forests, Ensemble Learning, Model Evaluation |
+| Deep Learning | Neural network design & optimization | TensorFlow, PyTorch, CNNs, LSTMs, Attention Mechanisms |
+| Computer Vision | Visual perception & real-time analysis | OpenCV, YOLOv8, Object Detection, Tracking, Pose Estimation |
+| Natural Language Processing | Semantic understanding & retrieval | Embeddings, Semantic Search, Vector Databases, Text Processing |
+| Knowledge Graphs & AI Memory | Structured reasoning & memory architectures | Knowledge Graphs, Entity Linking, Retrieval Systems, Agent Memory |
+| Geospatial Intelligence | Spatial analytics & environmental modeling | Satellite Data, GIS Concepts, Elevation Models, Geospatial Visualization |
+| Time-Series Analytics | Sequential forecasting & pattern analysis | Telemetry Analysis, Forecasting Models, Feature Engineering, Temporal Data |
+| AI Systems Engineering | End-to-end AI application development | RAG Architectures, AI Pipelines, API Integration, Evaluation Frameworks |
+| Data Engineering | Data collection, processing & storage | Pandas, Data Pipelines, ETL Workflows, Data Cleaning, Analytics |
 ---
 
 # GitHub Analytics
