@@ -178,16 +178,6 @@ REST APIs • Socket.io • Authentication Systems
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=darshannayak21&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
-</div>
-
----
-
 # Featured Projects
 
 ## 🧠 GraphMind
@@ -219,7 +209,7 @@ AI-powered nurse robot bridging hospital discharge and home recovery.
 
 ## 🌊 RainGuard
 
-India's real-time flood navigation system.
+India's first real-time flood navigation system.
 
 **Features**
 
@@ -308,7 +298,7 @@ Researching knowledge graph architectures for next-generation AI memory systems.
 
 2024 – Present
 
-Designed and developed responsive business websites and custom web platforms.
+Designed and developed responsive business websites and custom web platforms like ScaleSocials.
 
 ### Team Lead & Solo Competitor
 
@@ -351,7 +341,6 @@ Computer Science & Engineering (AI & Data Science)
 <div align="center">
 
 <a href="https://darshann.vercel.app">Portfolio</a> •
-<a href="https://darshannayak.netlify.app">Projects</a> •
 <a href="mailto:ndarshan507@gmail.com">Email</a>
 
 </div>
