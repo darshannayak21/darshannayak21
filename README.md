@@ -12,7 +12,7 @@ Building intelligent systems for Healthcare, Computer Vision, Geospatial Intelli
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://darshannayak.vercel.app/#work">
+<a href="https://darshannayak.vercel.app">
 <img src="https://img.shields.io/badge/Projects-FF6B00?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
 </a>
 
